@@ -66,7 +66,6 @@ http://www.tooplate.com/view/2098-health
     <ul class="nav navbar-nav navbar-right">
         <li><a href="/" class="smoothScroll" style="color:white">Home</a></li>
         <li><a href="/login"  style="color:white">Admin Login</a></li>
-        <li><a href="{{ route('register') }}" class="smoothScroll btn" style="color:white; background:orange;">Give Feedback</a></li>
 
     </ul>
 </div>
